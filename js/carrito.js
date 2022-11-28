@@ -21,7 +21,7 @@ class Carrito {
             cantidad: 1
         }
         let productosLS;
-        productosLS = this. ();
+        productosLS = this.obtenerProductosLocalStorage();
         productosLS.forEach(function (productoLS){
             if(productoLS.id === infoProducto.id){
                 productosLS = productoLS.id;
