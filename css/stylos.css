@@ -158,6 +158,10 @@ img {
 .card-title{
     color:rgb(91, 39, 115);
     text-align: center;
+}
+.card-text{
+    color:rgb(91, 39, 115);
+    text-align: center;
 
 }
 .container--card{
@@ -192,6 +196,7 @@ img {
     color: white;
     background-color: rgb(244, 117, 204);
     border-color: white;
+   
 }
 .container-editor{
     margin-top: 50px;
